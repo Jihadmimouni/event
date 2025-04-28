@@ -1,0 +1,14 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+
+
+ {
+    "title": "My Event",
+    "description": "This is a test event",
+    "date": "2023-10-01",
+    "location": "New York",
+    "numPlaces": 100,
+    "price": 50.0,
+    "category": "Conference"}
+
+

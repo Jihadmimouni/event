@@ -1,0 +1,11 @@
+PUT http://localhost:8080/events/2
+Content-Type: application/json
+
+ {
+    "title": "New Event Title",
+    "description": "This is a test event",
+    "date": "2023-10-01",
+    "location": "New York",
+    "numPlaces": 100,
+    "price": 50.0,
+    "category": "Conference"}

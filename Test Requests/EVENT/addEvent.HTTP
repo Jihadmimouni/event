@@ -9,6 +9,7 @@ Content-Type: application/json
     "location": "New York",
     "numPlaces": 100,
     "price": 50.0,
-    "category": "Conference"}
+    "category": "Conference"
+    }
 
 

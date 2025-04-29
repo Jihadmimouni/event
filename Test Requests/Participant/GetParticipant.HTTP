@@ -1,2 +1,3 @@
 GET http://localhost:8080/participate
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0ZXN0dXNlcjEiLCJpYXQiOjE3NDU5MDM0OTAsImV4cCI6MTc0NTkzOTQ5MH0.J62JecUrCsJS--DT0Ai-m1lVwOLTt0q9pjf0lqpA4mc

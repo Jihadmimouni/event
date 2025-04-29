@@ -1,0 +1,9 @@
+POST http://localhost:8080/participate
+Content-Type: application/json
+ 
+  {
+    "event": { "id": 3 },
+  "name": "John Doe",
+  "email": "jihad@mail.tn",
+  "phone": "12345678"
+}
